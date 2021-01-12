@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Santos</h1>
-<h3 align="center">I'm a passionate about technology and I love to use my knowledge in programming to apply them in engineering.</h3>
+<h3 align="center">I'm a passionate about technology and I love to use my knowledge in programming to apply it in engineering.</h3>
 
 - 🌱 I’m currently learning **GTK, Selenium, pyTelegramAPI**
 
