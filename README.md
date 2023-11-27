@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thiagonds65](https://github.com/thiagonds65)
 
-- 📫 How to reach me **thiagonds@id.uff.br**
+- 📫 How to reach me **thiagonogsantos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
