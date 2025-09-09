@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Thiago Santos</h1>
+<h1 align="center">Hi, I'm Thiago Santos</h1>
 <h3 align="center">I'm a passionate about technology and I love to use my knowledge in programming to apply it in engineering.</h3>
 
-- 🌱 I’m currently learning about **Data Science, Machine Learning, pyTelegramAPI**
+- I’m currently learning about **Data Science, Machine Learning, pyTelegramAPI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thiagonds65](https://github.com/thiagonds65)
+- All of my projects are available at [https://github.com/thiagonds65](https://github.com/thiagonds65)
 
-- 📫 How to reach me **thiagonogsantos@gmail.com**
+- How to reach me **thiagonogsantos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
